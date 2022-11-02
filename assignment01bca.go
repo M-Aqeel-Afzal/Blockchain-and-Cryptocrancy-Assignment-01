@@ -1,4 +1,4 @@
-package assignment01bca
+package assignment01
 
 import (
 	"bytes"
