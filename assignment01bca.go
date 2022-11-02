@@ -1,4 +1,4 @@
-package main
+package assignment01
 
 import (
 	"bytes"
