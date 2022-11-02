@@ -12,7 +12,7 @@ import (
 	"strings"
 )
 
-const difficulty_level = 4 //Determines the difficulty to mine block
+const difficulty_level = 6 //Determines the difficulty to mine block
 type Block string
 type Hash [20]byte
 type block struct { //block node
